@@ -115,7 +115,7 @@ DEVELOPING OPENGAZER
    other on the right, you can use opengazer as a binary switch.
 
 2. Opengazer shows the current estimate of the gaze point as a small
-   purle circle on the screen.  
+   purple circle on the screen.  
 
    It also outputs this information to the standard output.  Each line
    has the format
